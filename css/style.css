@@ -1,17 +1,39 @@
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color:white;
+	color:black;
 	}
 	
 	.container p {
 	
 	line-height: 100px;
-	background: #000;
-	text-align: center;
+	background: #fff;
+	text-align: Left;
 	margin: 20px 0 0 0;
+	
+	
+	
+	hr {
+	  border: 0;
+	  width: 80%;
+	}
+	
+	
+	h1 {color:#00ff00;}
+	h2 {color:rgb(255,0,0);}
+	
 	}
 	.yell
 	{
 	color:yellow;
 	}
 	
+
+	.footer p {
+		
+	line-height: 100px;
+	background: #00a0d6;
+	text-align: center;
+	margin: 20px 0 0 0;
+	
+		
+	}
